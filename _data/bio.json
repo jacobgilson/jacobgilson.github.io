@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jacob Gilson",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "jgilson01@aurora.edu",
+    "phone": "(331) 643-5999",
+    "website": "https://jacobgilson.github.io",
+    "summary": "I am studying for a B.S. in Software Engineering at the Aurora University. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "60502",
+      "city": "Aurora",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jacobgilson",
+        "url": "http://github.com/jacobgilson"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "jacobgilson",
+        "url": "http://linkedin.com/in/jacob-gilson-aa9771157"
       },
       {
         "network": "twitter",
@@ -83,24 +83,24 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "Aurora University, Aurora, IL",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2019-09-01",
+      "endDate": "Spring 2021",
+      "gpa": "3.4",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
+      "company": "Doka USA",
+      "position": "Engineering Intern",
+      "website": "https://www.doka.com/us/home/apps/augmented-reality-app-americas",
       "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Created a new Unity computer application that allows users to simply click a command in AutoCAD to copy an XML file of a formwork drawing into clipboard and then process an upload of the file to Firebase Storage. This allows viewability in 3D and enables the user to easily edit specific parts of the drawing. This resulted in a 5000% time savings over the previous method. Updated the Doka AR app previously created to enable it to read serialized data and minimize storage space by 50%.",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
