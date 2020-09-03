@@ -24,34 +24,12 @@
         "network": "linkedin",
         "username": "jacobgilson",
         "url": "http://linkedin.com/in/jacob-gilson-aa9771157"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
@@ -61,23 +39,22 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "C#",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Programs",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "2D and 3D AutoCAD",
+        "Unity",
+        "Google Firebase Storage",
+        "Siemens NX",
+        "Matlab",
+        "Mathematica"
       ]
     }
   ],
@@ -87,7 +64,27 @@
       "area": "Software Engineering (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2019-09-01",
-      "endDate": "Spring 2021",
+      "endDate": "",
+      "gpa": "3.4",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Milwaukee School of Engineering, Milwaukee, WI",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2018-09-01",
+      "endDate": "2019-05-01",
+      "gpa": "3.4",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Michigan Technological University, Houghton, MI",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2016-09-01",
+      "endDate": "2018-05-01",
       "gpa": "3.4",
       "courses": [
       ]
