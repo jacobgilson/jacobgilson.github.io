@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/DokaAR on Phone.png
 title: DokaAR and DokaXfer
 permalink: projects/dokaar
 # All dates must be YYYY-MM-DD format!
