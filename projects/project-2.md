@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/seconds2live.png
+title: United Game Jam 2020
+permalink: projects/2020gamejam
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-06-28
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Unity
+  - C#
+summary: Participated in a 48 hour game jam.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/seconds2live.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I participated in a 48 hour game jam which is a competition where one has to create an entire game within the time limit. I worked with two other people during this game jam. We created the game using Unity which requires programming in c#. The game is called Seconds 2 live which is a 2D platform where you help the victim of a space crash and his sidekick ostrich collect parts to repair their ship. One must be careful due to the different atmosphere, as you can only survive for two seconds before you need to repressurise your suit. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+All art, music and game mechanics made in 48 hours with the exception of the font which was purchased from the Unity Asset Store
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+[Seconds 2 Live](https://puddleinteractive.itch.io/seconds-2-live)
